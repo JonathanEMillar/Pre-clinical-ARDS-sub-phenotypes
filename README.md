@@ -9,7 +9,10 @@ Physiological Reports (2021);9:e15048. DOI: 10.14814/phy2.15048
 19 sheep
 
 base = pre-injury
+
 0_hrs = at time of injury
+
+Hourly thereafter
 
 | Variable    | Description.                                                                    | Units     | 
 |:------------|:--------------------------------------------------------------------------------|:----------|
