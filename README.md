@@ -14,7 +14,7 @@ base = pre-injury
 
 Hourly thereafter
 
-### celticmaster.cav
+### celticmaster.csv
 
 | Variable    | Description.                                                                    | Units     | 
 |:------------|:--------------------------------------------------------------------------------|:----------|
